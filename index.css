@@ -98,8 +98,9 @@ body {
 }
 
 .images {
-    padding: 0 128px 64px 128px;
+    /* padding: 0 128px 64px 128px; */
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
     gap: 16px;
 }
