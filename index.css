@@ -166,3 +166,10 @@ body {
 .call-to-action .button {
     margin-left: auto;
 }
+
+.footer {
+    padding: 16px;
+    text-align: center;
+    background-color: #131922;
+    color: #E5E7EB;
+}
