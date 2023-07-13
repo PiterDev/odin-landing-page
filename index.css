@@ -69,7 +69,7 @@ body {
     align-items: center;
     justify-content: space-between;
     gap: 16px;
-    padding: 0 128px 64px 128px;
+    padding: 16px 128px 64px 128px;
 }
 
 .header .logo {
@@ -149,4 +149,20 @@ body {
     text-align: right;
     font-size: 24px;
     font-weight: bolder;
+}
+
+.call-to-action {
+    margin: 64px 128px;
+    padding: 16px 64px;
+    display: flex;
+
+    align-items: center;
+}
+
+.call-to-action h1 {
+    margin-bottom: 0px;
+}
+
+.call-to-action .button {
+    margin-left: auto;
 }
